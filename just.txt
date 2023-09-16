@@ -1,0 +1,7 @@
+<div class="d1">
+            <div class="e1" style="background-color: rgb(250, 169, 227);">
+                &nbsp;&nbsp;<i class="fa-solid fa-graduation-cap" style="color: rgb(175, 38, 152);"></i>
+                &nbsp;<b class="b1">12000+</b>
+                <h6 class="para">Career Transitions</h6>
+            </div>
+        </div>
